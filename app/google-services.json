@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081957086337",
+    "project_id": "loginapp-e8f9a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081957086337:android:cbf2aa95b42c314a",
+        "android_client_info": {
+          "package_name": "com.example.fullstack.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081957086337-qg4qepofeo1v7m7aoba6k0rvbdmgrepi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fullstack.myapplication",
+            "certificate_hash": "e7ff75eb67a1acad2727931241ad0babeee957c7"
+          }
+        },
+        {
+          "client_id": "1081957086337-tfpmfs9p4ebbsni5l68qnhidcujnr4jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAIJClq3XWaTY_VJmPTfqDN4G5XRguY0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
